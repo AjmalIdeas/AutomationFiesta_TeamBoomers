@@ -1,4 +1,4 @@
-package test.mobile;
+package tests.api;
 
 public class TEST {
 }
